@@ -1,0 +1,8 @@
+{
+  "scripts": [
+    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.js"
+  ],
+  "styles": [
+    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.css"
+  ]
+}
